@@ -3,7 +3,7 @@
 
 int main(){
 
-    int a,b,c,res= -9999999;
+    int a,b,c;
 
     printf("Enter No. 1:");
     scanf("%d",&a);
