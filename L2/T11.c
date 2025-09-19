@@ -1,3 +1,4 @@
+// PROGRAM TO READ TOTAL SECOND AND CONVERT IT INTO TIME.
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,4 @@
+// PROGRAM TO CALCULATE GROSS SALARY.
 #include <stdio.h>
 
 int main(){

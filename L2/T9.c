@@ -1,3 +1,4 @@
+// PROGRAM TO READ TIME IN HR,MIN,SEC AND CONVERT IT INTO TOTAL SECOND.
 #include <stdio.h>
 
 int main(){

@@ -1,3 +1,4 @@
+// PROGRAM TO CHECK WHETHER A NO. IS EVEN OR ODD.
 #include <stdio.h>
 
 int main(){

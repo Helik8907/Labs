@@ -1,3 +1,4 @@
+// PROGRAM TO CALCULATE AREA OF A TRIANGLE.
 #include <stdio.h>
 
 int main(){

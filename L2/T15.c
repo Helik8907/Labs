@@ -1,3 +1,4 @@
+// PROGRAM TO READ MARKS OF FIVE SUBJECT AND PRINT DIVISION.
 #include <stdio.h>
 
 int main(){
